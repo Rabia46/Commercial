@@ -22,7 +22,7 @@ import AppFooter from './components/footer';
 function App() {
     return (
         <>
-              <Router basename="/Commercial">
+            
             <div className="App">
                 <header id='header'>
                     <AppHeader />
@@ -47,7 +47,6 @@ function App() {
             </div>
 
 
-    </Router>
 
         </>
     )
